@@ -1,3 +1,9 @@
+Code in emitter, particle system and skeleton classes not used in the final result.
+
+Video: https://drive.google.com/file/d/1hE-_RH52cbe4Idn2Uk3SmJ50Aarjt6lf/view?usp=sharing
+
+
+
 # CGRA OpenGL Base Project
 
 # Requirements
